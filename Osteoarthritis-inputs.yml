@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/osteoarthritis---primary.py
+inputModule3:
+  class: File
+  path: python/osteoarthritis-generalised---primary.py
+inputModule4:
+  class: File
+  path: python/osteoarthritis-specified---primary.py
+inputModule5:
+  class: File
+  path: python/multiple-osteoarthritis---primary.py
+inputModule6:
+  class: File
+  path: python/osteoarthritis-osteoarthrosis---primary.py
+inputModule7:
+  class: File
+  path: python/primary-osteoarthritis---primary.py
+inputModule8:
+  class: File
+  path: python/other-osteoarthritis---primary.py
+inputModule9:
+  class: File
+  path: python/osteoarthritis-forearm---primary.py
+inputModule10:
+  class: File
+  path: python/pelvic-osteoarthritis---primary.py
+inputModule11:
+  class: File
+  path: python/lower-osteoarthritis---primary.py
+inputModule12:
+  class: File
+  path: python/osteoarthritis-wrist---primary.py
+inputModule13:
+  class: File
+  path: python/osteoarthritis-elbow---primary.py
+inputModule14:
+  class: File
+  path: python/secondary-osteoarthritis---primary.py
+inputModule15:
+  class: File
+  path: python/osteoarthritis-shoulder---primary.py
+inputModule16:
+  class: File
+  path: python/osteoarthritis-finger---primary.py
+inputModule17:
+  class: File
+  path: python/osteoarthritis-ankle---primary.py
+inputModule18:
+  class: File
+  path: python/osteoarthritis-joint---primary.py
+inputModule19:
+  class: File
+  path: python/osteoarthritis-spine---primary.py
+inputModule20:
+  class: File
+  path: python/cervical-osteoarthritis---primary.py
+inputModule21:
+  class: File
+  path: python/osteoarthritic-osteoarthritis---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
